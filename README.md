@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a student.
 - 🌱 I’m currently learning javascript!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/yukirinoodle9713)
+- 📫 How to reach me: [Twitter - @yukiri9713](https://twitter.com/yukiri9713)
 <br>
 
 
